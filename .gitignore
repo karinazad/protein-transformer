@@ -1,0 +1,7 @@
+notebooks/.ipynb_checkpoints
+notebooks/lightning_logs
+notebooks/wandb
+notebooks/protein_transformer
+
+.DS_Store/
+.idea/
