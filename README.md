@@ -1,1 +1,1 @@
-# protein-transformer
+# Protein Transformer
